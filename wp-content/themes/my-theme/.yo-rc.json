@@ -1,0 +1,11 @@
+{
+  "generator-nitro": {
+    "name": "my-theme",
+    "templateEngine": "hbs",
+    "jsCompiler": "ts",
+    "themes": false,
+    "clientTemplates": false,
+    "exampleCode": true,
+    "exporter": true
+  }
+}
